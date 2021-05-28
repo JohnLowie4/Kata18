@@ -16,7 +16,7 @@ const squareCode = function(message) {
 
   code = "";
 
-  let finalCode = []
+  let finalCode = [];
 
   for (let i = 0; i < modCode.length; i++) {
     if (i === 0) {
@@ -46,7 +46,7 @@ console.log(squareCode("have a nice day"));
 console.log(squareCode("if man was meant to stay on the ground god would have given us roots"));
 
 // Expected output:
-// clu hlt io  
+// clu hlt io
 // fto ehg ee dd
 // hae and via ecy
 // imtgdvs fearwer mayoogo anouuio ntnnlvt wttddes aohghn sseoau
